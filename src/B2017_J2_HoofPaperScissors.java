@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class P2017_J2_HoofPaperScissors {
+public class B2017_J2_HoofPaperScissors {
     public static void main(String[] args) throws IOException{
         BufferedReader br = new BufferedReader(new FileReader("hps.in"));
         PrintWriter pw = new PrintWriter(new FileWriter("hps.out"));

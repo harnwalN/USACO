@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class P2018_F1_Teleportation{
+public class B2018_F1_Teleportation{
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new FileReader("teleport.in"));
         PrintWriter pw = new PrintWriter(new FileWriter("teleport.out"));

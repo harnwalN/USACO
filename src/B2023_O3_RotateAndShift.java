@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class P2023_O3_RotateAndShift {
+public class B2023_O3_RotateAndShift {
     static int[] pos;
     static int[] initialPos;
 

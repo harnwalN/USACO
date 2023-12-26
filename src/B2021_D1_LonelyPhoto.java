@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class P2021_D1_LonelyPhoto {
+public class B2021_D1_LonelyPhoto {
     static boolean[] cows;
     static HashSet<Long> g;
     static HashSet<Long> h;

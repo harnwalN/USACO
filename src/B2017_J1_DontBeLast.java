@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class P2017_J1_DontBeLast {
+public class B2017_J1_DontBeLast {
     public static void main(String[] args) throws IOException{
         BufferedReader br = new BufferedReader(new FileReader("notlast.in"));
         PrintWriter pw = new PrintWriter(new FileWriter("notlast.out"));

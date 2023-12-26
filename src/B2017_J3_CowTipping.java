@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class P2017_J3_CowTipping {
+public class B2017_J3_CowTipping {
     static int[][] grid;
     public static void main(String[] args) throws IOException{
         BufferedReader br = new BufferedReader(new FileReader("cowtip.in"));

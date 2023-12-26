@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class P2016_J1_PromotionCounting {
+public class B2016_J1_PromotionCounting {
     public static void main(String[] args) throws IOException {
         //BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         //PrintWriter pw = new PrintWriter(System.out);
