@@ -1,0 +1,308 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "S2021_J1_DanceMooves",
+            "request": "launch",
+            "mainClass": "S2021_J1_DanceMooves",
+            "projectName": "space_bdd02503"
+        },
+        {
+            "type": "java",
+            "name": "B2020_J3_Race",
+            "request": "launch",
+            "mainClass": "B2020_J3_Race",
+            "projectName": "space_bdd02503"
+        },
+        {
+            "type": "java",
+            "name": "B2021_O1_Photoshoot",
+            "request": "launch",
+            "mainClass": "B2021_O1_Photoshoot",
+            "projectName": "space_bdd02503"
+        },
+        {
+            "type": "java",
+            "name": "B2019_J3_GuessTheAnimal",
+            "request": "launch",
+            "mainClass": "B2019_J3_GuessTheAnimal",
+            "projectName": "space_bdd02503"
+        },
+        {
+            "type": "java",
+            "name": "B2016_F3_LoadBalancing",
+            "request": "launch",
+            "mainClass": "B2016_F3_LoadBalancing",
+            "projectName": "space_bdd02503"
+        },
+        {
+            "type": "java",
+            "name": "B2022_F1_SleepingInClass",
+            "request": "launch",
+            "mainClass": "B2022_F1_SleepingInClass",
+            "projectName": "space_bdd02503"
+        },
+        {
+            "type": "java",
+            "name": "B2021_F1_SleepingInClass",
+            "request": "launch",
+            "mainClass": "B2021_F1_SleepingInClass",
+            "projectName": "space_bdd02503"
+        },
+        {
+            "type": "java",
+            "name": "CF1907A_Rook",
+            "request": "launch",
+            "mainClass": "CF1907A_Rook",
+            "projectName": "space_bdd02503"
+        },
+        {
+            "type": "java",
+            "name": "B2023_J3_MooOperations",
+            "request": "launch",
+            "mainClass": "B2023_J3_MooOperations",
+            "projectName": "space_bdd02503"
+        },
+        {
+            "type": "java",
+            "name": "B2023_J2_AirCownditioningII",
+            "request": "launch",
+            "mainClass": "B2023_J2_AirCownditioningII",
+            "projectName": "space_bdd02503"
+        },
+        {
+            "type": "java",
+            "name": "ride",
+            "request": "launch",
+            "mainClass": "ride",
+            "projectName": "space_bdd02503"
+        },
+        {
+            "type": "java",
+            "name": "B2016_D2_BlockGame",
+            "request": "launch",
+            "mainClass": "B2016_D2_BlockGame",
+            "projectName": "space_bdd02503"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AngryCows",
+            "request": "launch",
+            "mainClass": "AngryCows",
+            "projectName": "space_bdd02503"
+        },
+        {
+            "type": "java",
+            "name": "AscendingPrint",
+            "request": "launch",
+            "mainClass": "AscendingPrint",
+            "projectName": "space_bdd02503"
+        },
+        {
+            "type": "java",
+            "name": "B2015_D2_SpeedingTicket",
+            "request": "launch",
+            "mainClass": "B2015_D2_SpeedingTicket",
+            "projectName": "space_bdd02503"
+        },
+        {
+            "type": "java",
+            "name": "B2016_J1_PromotionCounting",
+            "request": "launch",
+            "mainClass": "B2016_J1_PromotionCounting",
+            "projectName": "space_bdd02503"
+        },
+        {
+            "type": "java",
+            "name": "B2017_J1_DontBeLast",
+            "request": "launch",
+            "mainClass": "B2017_J1_DontBeLast",
+            "projectName": "space_bdd02503"
+        },
+        {
+            "type": "java",
+            "name": "B2017_J2_HoofPaperScissors",
+            "request": "launch",
+            "mainClass": "B2017_J2_HoofPaperScissors",
+            "projectName": "space_bdd02503"
+        },
+        {
+            "type": "java",
+            "name": "B2017_J3_CowTipping",
+            "request": "launch",
+            "mainClass": "B2017_J3_CowTipping",
+            "projectName": "space_bdd02503"
+        },
+        {
+            "type": "java",
+            "name": "B2018_D1_MixingMilk",
+            "request": "launch",
+            "mainClass": "B2018_D1_MixingMilk",
+            "projectName": "space_bdd02503"
+        },
+        {
+            "type": "java",
+            "name": "B2018_F1_Teleportation",
+            "request": "launch",
+            "mainClass": "B2018_F1_Teleportation",
+            "projectName": "space_bdd02503"
+        },
+        {
+            "type": "java",
+            "name": "B2021_D1_LonelyPhoto",
+            "request": "launch",
+            "mainClass": "B2021_D1_LonelyPhoto",
+            "projectName": "space_bdd02503"
+        },
+        {
+            "type": "java",
+            "name": "B2023_F1_HungryCow",
+            "request": "launch",
+            "mainClass": "B2023_F1_HungryCow",
+            "projectName": "space_bdd02503"
+        },
+        {
+            "type": "java",
+            "name": "B2023_F2_StampGrid",
+            "request": "launch",
+            "mainClass": "B2023_F2_StampGrid",
+            "projectName": "space_bdd02503"
+        },
+        {
+            "type": "java",
+            "name": "B2023_F3_WatchingMooloo",
+            "request": "launch",
+            "mainClass": "B2023_F3_WatchingMooloo",
+            "projectName": "space_bdd02503"
+        },
+        {
+            "type": "java",
+            "name": "B2023_O2_MooLanguage",
+            "request": "launch",
+            "mainClass": "B2023_O2_MooLanguage",
+            "projectName": "space_bdd02503"
+        },
+        {
+            "type": "java",
+            "name": "B2023_O3_RotateAndShift",
+            "request": "launch",
+            "mainClass": "B2023_O3_RotateAndShift",
+            "projectName": "space_bdd02503"
+        },
+        {
+            "type": "java",
+            "name": "BlockedBillboard",
+            "request": "launch",
+            "mainClass": "BlockedBillboard",
+            "projectName": "space_bdd02503"
+        },
+        {
+            "type": "java",
+            "name": "BovineShuffle",
+            "request": "launch",
+            "mainClass": "BovineShuffle",
+            "projectName": "space_bdd02503"
+        },
+        {
+            "type": "java",
+            "name": "CowCollege_D1_22",
+            "request": "launch",
+            "mainClass": "CowCollege_D1_22",
+            "projectName": "space_bdd02503"
+        },
+        {
+            "type": "java",
+            "name": "DoYouKnowYourABCs",
+            "request": "launch",
+            "mainClass": "DoYouKnowYourABCs",
+            "projectName": "space_bdd02503"
+        },
+        {
+            "type": "java",
+            "name": "FairPhotography",
+            "request": "launch",
+            "mainClass": "FairPhotography",
+            "projectName": "space_bdd02503"
+        },
+        {
+            "type": "java",
+            "name": "FeedingTheCows_D2_22",
+            "request": "launch",
+            "mainClass": "FeedingTheCows_D2_22",
+            "projectName": "space_bdd02503"
+        },
+        {
+            "type": "java",
+            "name": "Leaders_J1_23",
+            "request": "launch",
+            "mainClass": "Leaders_J1_23",
+            "projectName": "space_bdd02503"
+        },
+        {
+            "type": "java",
+            "name": "MadScientist",
+            "request": "launch",
+            "mainClass": "MadScientist",
+            "projectName": "space_bdd02503"
+        },
+        {
+            "type": "java",
+            "name": "MilkVisits",
+            "request": "launch",
+            "mainClass": "MilkVisits",
+            "projectName": "space_bdd02503"
+        },
+        {
+            "type": "java",
+            "name": "S2020_D1_Cowntagion",
+            "request": "launch",
+            "mainClass": "S2020_D1_Cowntagion",
+            "projectName": "space_bdd02503"
+        },
+        {
+            "type": "java",
+            "name": "S2020_F3_ClockTree",
+            "request": "launch",
+            "mainClass": "S2020_F3_ClockTree",
+            "projectName": "space_bdd02503"
+        },
+        {
+            "type": "java",
+            "name": "ShellGame",
+            "request": "launch",
+            "mainClass": "ShellGame",
+            "projectName": "space_bdd02503"
+        },
+        {
+            "type": "java",
+            "name": "a",
+            "request": "launch",
+            "mainClass": "a",
+            "projectName": "space_bdd02503"
+        },
+        {
+            "type": "java",
+            "name": "angry",
+            "request": "launch",
+            "mainClass": "angry",
+            "projectName": "space_bdd02503"
+        },
+        {
+            "type": "java",
+            "name": "ballet",
+            "request": "launch",
+            "mainClass": "ballet",
+            "projectName": "space_bdd02503"
+        }
+    ]
+}
