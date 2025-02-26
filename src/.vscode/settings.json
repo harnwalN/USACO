@@ -10,6 +10,8 @@
         "iostream": "cpp",
         "initializer_list": "cpp",
         "valarray": "cpp",
-        "random": "cpp"
+        "random": "cpp",
+        "atomic": "cpp",
+        "bitset": "cpp"
     }
 }
